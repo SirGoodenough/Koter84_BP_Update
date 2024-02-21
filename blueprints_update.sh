@@ -1,7 +1,7 @@
 #!/bin/bash
 
 self_file="$0"
-self_source_url="https://raw.githubusercontent.com/koter84/HomeAssistant_Blueprints_Update/main/blueprints_update.sh"
+self_source_url="https://raw.githubusercontent.com/SirGoodenough/Koter84_BP_Update/main/blueprints_update.sh" # Update URL to new repository.
 
 # defaults
 _do_update="false"
